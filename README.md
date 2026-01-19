@@ -23,11 +23,11 @@ const decision = await analyze({
 });
 ```
 
-## ✨ The Aesthetic Experience
+## ✨ The Experience
 
 Welcome to **Nexus**. This isn't just a dashboard; it's a command center for your life's choices. Built with the **"Midnight Aurora"** design philosophy, it features:
 
-*   **🌌 Antigravity Flow**: A living, breathing particle background that reacts to your presence.
+*   **🌌 Particle Flow**: A living, breathing particle background that reacts to your presence.
 *   **🔦 Spotlight Interface**: Interactive glassmorphic cards that glow and tilt as you navigate.
 *   **🔮 Deep Space Mode**: A true dark theme designed for late-night strategists.
 
@@ -126,7 +126,11 @@ Contributions are what make the open source community such an amazing place to l
 ## 👤 Author
 
 **Darain Hyder**
-*   GitHub: [@DarainHyder](https://github.com/DarainHyder)
+
+*   📧 **Email**: [darainhyder21@gmail.com](mailto:darainhyder21@gmail.com)
+*   👔 **LinkedIn**: [linkedin.com/in/syed-darain-hyder-kazmi](https://linkedin.com/in/syed-darain-hyder-kazmi)
+*   📱 **WhatsApp**: [+92 343 3055357](https://wa.me/923433055357)
+*   🐙 **GitHub**: [@DarainHyder](https://github.com/DarainHyder)
 
 ---
 
